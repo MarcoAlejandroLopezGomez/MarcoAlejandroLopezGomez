@@ -51,7 +51,9 @@ Welcome to my GitHub profile! I'm passionate about creating innovative software 
 ---
 
 ### 🏆 **OverTierlist**
-> A **tier list web application** built with HTML for strategic ranking.  
+> A **tier list web application** built with HTML for strategic ranking.
+> This was the **sketch** for what would become the **[Scouting Suite](https://github.com/MarcoAlejandroLopezGomez/Overture_ScoutingSuite_Dart)**.
+> 
 > [🔗 View Repository](https://github.com/MarcoAlejandroLopezGomez/OverTierlist)
 
 ---
