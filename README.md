@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative software 
 > A **Flutter application** designed for **FIRST Robotics Competition (FRC)** scouting.  
 > **Key Features**:
 > - QR code-based data collection
-> - Data analysis and ranking
+> - Data analysis and ranking (limited by web resources)
 > - Visual tier lists for strategy optimization
 > - **ONLY AVAILABLE ON WEB**
 > - Working on desktop and mobile versions
@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm passionate about creating innovative software 
 ### 🤖 **TeamsAnalizer**
 > A **Python-based tool** designed to help teams analyze and record match performance in the FIRST Robotics Competition (FRC). 
 > **Key Features**:
-> - Includes a QR Scanner.
-> - Forshadowing with Monte Carlo simulations.
-> - Consistency calculations.
-> - Calificacion of competencies and sub-competencies.
-> - It streamlines the scouting process by providing a user-friendly interface for entering match data across all phases—including Prematch setup, Autonomous actions, Teleoperated period, and Endgame scoring. 
+> - Includes a QR Scanner
+> - Forshadowing with Monte Carlo simulations
+> - Consistency calculations
+> - Calificacion of competencies and sub-competencies
+> - It streamlines the scouting process by providing a user-friendly interface for entering match data across all phases—including Prematch setup, Autonomous actions, Teleoperated period, and Endgame scoring 
 > [🔗 View Repository](https://github.com/Overture-7421/Overture-TeamsAnalizer)
 
 ---
@@ -34,7 +34,9 @@ Welcome to my GitHub profile! I'm passionate about creating innovative software 
 > A **Flutter-based tool** for scouting FRC "Overture Reefscape" matches.  
 > **Key Features**:
 > - Intuitive interface for match data input
-> - Covers phases like Prematch, Autonomous, Teleop, and Endgame  
+> - Covers phases like Prematch, Autonomous, Teleop, and Endgame
+> - Youtube insertations
+> - Schedule System  
 > [🔗 View Repository](https://github.com/MarcoAlejandroLopezGomez/Overture_QR_Scouting)
 
 ---
@@ -51,7 +53,8 @@ Welcome to my GitHub profile! I'm passionate about creating innovative software 
 ### 🌌 **PhySimulations**
 > A Python-based repository for **Beamline For Schools Competition**.  
 > **Key Features**:
-> - 100% Python!  
+> - 100% Python!
+> - Predicts the probability of opening a gap in a graphen sample with a charged particles
 > [🔗 View Repository](https://github.com/MarcoAlejandroLopezGomez/PhySimulations)
 
 ---
